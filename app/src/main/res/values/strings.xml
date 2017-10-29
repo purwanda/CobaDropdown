@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CobaDropdown</string>
+    <string-array name="produk">
+        <item>Pilih produk</item>
+        <item>Pembelian pulsa Indosat</item>
+        <item>Pembayaran tagihan Indosat</item>
+        <item>Pembelian pulsa XL</item>
+        <item>Pembayaran tagihan XL</item>
+        <item>Pembayaran tagihan XL1</item>
+        <item>Pembayaran tagihan XL2</item>
+        <item>Pembayaran tagihan XL3</item>
+        <item>Pembayaran tagihan XL4</item>
+        <item>Pembayaran tagihan XL5</item>
+        <item>Pembayaran tagihan XL6</item>
+        <item>Pembayaran tagihan XL7</item>
+        <item>Pembayaran tagihan XL8</item>
+        <item>Pembayaran tagihan XL9</item>
+        <item>Pembayaran tagihan XL10</item>
+    </string-array>
+</resources>
